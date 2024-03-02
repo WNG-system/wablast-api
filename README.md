@@ -9,11 +9,11 @@ Aplikasi <b>Whatsapp API</b> merupakan api untuk mengirim pesan whatsapp yang di
 ## Instalasi
 #### Via Git
 ```bash
-git clone https://github.com/WNG-system/Wablast.git
+git clone https://github.com/WNG-system/wablast-api.git
 ```
 
 ### Download ZIP
-[Link](https://github.com/WNG-system/Wablast/archive/refs/heads/main.zip)
+[Link](https://github.com/WNG-system/wablast-api/archive/refs/heads/main.zip)
 
 ### Setup Aplikasi
 Jalankan perintah 
